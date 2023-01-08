@@ -1,0 +1,2 @@
+feh --bg-fill /usr/share/wallpapers/0.jpg
+polybar -r &
